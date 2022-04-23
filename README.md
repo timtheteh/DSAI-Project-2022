@@ -51,7 +51,6 @@ This is a mini project for CZ1115 Introduction to Data Science and Artificial In
 
 @zero0zero7 - Implementation of Machine Learning Models: Random Forest, AdaBoost, CatBoost, Gradient Boosting Classifier
 
-
 ## References
 * https://archive.ics.uci.edu/ml/datasets/wine+quality
 * https://www.kaggle.com/code/firuzjuraev/red-wine-quality-forecasting/notebook#--Modeling!-
@@ -59,3 +58,7 @@ This is a mini project for CZ1115 Introduction to Data Science and Artificial In
 * https://towardsdatascience.com/the-right-way-of-using-smote-with-cross-validation-92a8d09d00c7
 * https://www.sciencedirect.com/science/article/abs/pii/S0167923609001377?via%3Dihub
 * https://blog.paperspace.com/adaboost-optimizer/#:~:text=AdaBoost%20is%20an%20ensemble%20learning,turn%20them%20into%20strong%20ones
+
+## Video presentation
+
+https://user-images.githubusercontent.com/76463517/164886593-aca672b8-97ee-43c0-bd68-241ce4c84518.mp4
