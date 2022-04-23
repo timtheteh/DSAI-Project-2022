@@ -5,6 +5,10 @@ Spoilt for choice? With such a large variety of wine in the shelves of your loca
 
 This is a mini project for CZ1115 Introduction to Data Science and Artificial Intelligence, which aims to predict the wine quality from the physicochemical properties of wine.
 
+## Video Presentation
+
+https://user-images.githubusercontent.com/76463517/164886694-840d350f-8a45-426c-9ac2-696aed7e3e45.mp4
+
 ## Problem Definition
 * Given the physicochemical properties of a wine, can we predict whether a wine is of good quality (Rating >= 6)?
 * Which model best predicts the wine quality?
@@ -58,7 +62,3 @@ This is a mini project for CZ1115 Introduction to Data Science and Artificial In
 * https://towardsdatascience.com/the-right-way-of-using-smote-with-cross-validation-92a8d09d00c7
 * https://www.sciencedirect.com/science/article/abs/pii/S0167923609001377?via%3Dihub
 * https://blog.paperspace.com/adaboost-optimizer/#:~:text=AdaBoost%20is%20an%20ensemble%20learning,turn%20them%20into%20strong%20ones
-
-## Video presentation
-
-https://user-images.githubusercontent.com/76463517/164886593-aca672b8-97ee-43c0-bd68-241ce4c84518.mp4
